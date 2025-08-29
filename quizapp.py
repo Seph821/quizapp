@@ -284,6 +284,262 @@ question_bank = {
             "answer": "Reniform",
             "image_path": "leaf_shapes.jpg"
         }
+    ],
+    "Leaf Apices": [
+        {
+            "question": "A",
+            "options": ["Acute", "Acuminate", "Obtuse", "Rounded"],
+            "answer": "Acute",
+            "image_path": "leaf_apices.jpg"
+        },
+        {
+            "question": "B",
+            "options": ["Acuminate", "Obtuse", "Rounded", "Mucronate"],
+            "answer": "Acuminate",
+            "image_path": "leaf_apices.jpg"
+        },
+        {
+            "question": "C",
+            "options": ["Obtuse", "Rounded", "Mucronate", "Emarginate"],
+            "answer": "Obtuse",
+            "image_path": "leaf_apices.jpg"
+        },
+        {
+            "question": "D",
+            "options": ["Rounded", "Mucronate", "Emarginate", "Truncate"],
+            "answer": "Rounded",
+            "image_path": "leaf_apices.jpg"
+        },
+        {
+            "question": "E",
+            "options": ["Rounded", "Mucronate", "Emarginate", "Truncate"],
+            "answer": "Mucronate",
+            "image_path": "leaf_apices.jpg"
+        },
+        {
+            "question": "F",
+            "options": ["Rounded", "Mucronate", "Emarginate", "Truncate"],
+            "answer": "Emarginate",
+            "image_path": "leaf_apices.jpg"
+        },
+        {
+            "question": "G",
+            "options": ["Rounded", "Mucronate", "Emarginate", "Truncate"],
+            "answer": "Truncate",
+            "image_path": "leaf_apices.jpg"
+        }
+    ],
+    "Leaf Bases": [
+        {
+            "question": "A",
+            "options": ["Acute", "Acuminate", "Obtuse", "Rounded"],
+            "answer": "Acute",
+            "image_path": "leaf_bases.jpg"
+        },
+        {
+            "question": "B",
+            "options": ["Acuminate", "Obtuse", "Rounded", "Truncate"],
+            "answer": "Acuminate",
+            "image_path": "leaf_bases.jpg"
+        },
+        {
+            "question": "C",
+            "options": ["Obtuse", "Rounded", "Truncate", "Cordate"],
+            "answer": "Obtuse",
+            "image_path": "leaf_bases.jpg"
+        },
+        {
+            "question": "D",
+            "options": ["Rounded", "Truncate", "Cordate", "Oblique"],
+            "answer": "Rounded",
+            "image_path": "leaf_bases.jpg"
+        },
+        {
+            "question": "E",
+            "options": ["Truncate", "Cordate", "Oblique", "Hastate"],
+            "answer": "Truncate",
+            "image_path": "leaf_bases.jpg"
+        },
+        {
+            "question": "F",
+            "options": ["Cordate", "Oblique", "Hastate", "Sagittate"],
+            "answer": "Cordate",
+            "image_path": "leaf_bases.jpg"
+        },
+        {
+            "question": "G",
+            "options": ["Oblique", "Hastate", "Sagittate", "Peltate"],
+            "answer": "Oblique",
+            "image_path": "leaf_bases.jpg"
+        },
+        {
+            "question": "H",
+            "options": ["Oblique", "Hastate", "Sagittate", "Peltate"],
+            "answer": "Hastate",
+            "image_path": "leaf_bases.jpg"
+        },
+        {
+            "question": "I",
+            "options": ["Oblique", "Hastate", "Sagittate", "Peltate"],
+            "answer": "Sagittate",
+            "image_path": "leaf_bases.jpg"
+        },
+        {
+            "question": "J",
+            "options": ["Oblique", "Hastate", "Sagittate", "Peltate"],
+            "answer": "Peltate",
+            "image_path": "leaf_bases.jpg"
+        }
+    ],
+    "Leaf Margins": [
+        {
+            "question": "A",
+            "options": ["Entire", "Crenate", "Crenulate", "Serrate"],
+            "answer": "Entire",
+            "image_path": "leaf_margins.jpg"
+        },
+        {
+            "question": "B",
+            "options": ["Crenate", "Crenulate", "Serrate", "Serrulate"],
+            "answer": "Crenate",
+            "image_path": "leaf_margins.jpg"
+        },
+        {
+            "question": "C",
+            "options": ["Crenulate", "Serrate", "Serrulate", "Doubly serrate"],
+            "answer": "Crenulate",
+            "image_path": "leaf_margins.jpg"
+        },
+        {
+            "question": "D",
+            "options": ["Serrate", "Serrulate", "Doubly serrate", "Denate"],
+            "answer": "Serrate",
+            "image_path": "leaf_margins.jpg"
+        },
+        {
+            "question": "E",
+            "options": ["Serrulate", "Doubly serrate", "Denate", "Denticulate"],
+            "answer": "Serrulate",
+            "image_path": "leaf_margins.jpg"
+        },
+        {
+            "question": "F",
+            "options": ["Doubly serrate", "Denate", "Denticulate", "Pinnately lobed"],
+            "answer": "Doubly serrate",
+            "image_path": "leaf_margins.jpg"
+        },
+        {
+            "question": "G",
+            "options": ["Denate", "Denticulate", "Pinnately lobed", "Palmately lobed"],
+            "answer": "Denate",
+            "image_path": "leaf_margins.jpg"
+        },
+        {
+            "question": "H",
+            "options": ["Denticulate", "Pinnately lobed", "Palmately lobed", "Plane"],
+            "answer": "Denticulate",
+            "image_path": "leaf_margins.jpg"
+        },
+        {
+            "question": "I",
+            "options": ["Pinnately lobed", "Palmately lobed", "Plane", "Involute"],
+            "answer": "Pinnately lobed",
+            "image_path": "leaf_margins.jpg"
+        },
+        {
+            "question": "J",
+            "options": ["Palmately lobed", "Plane", "Involute", "Revolute"],
+            "answer": "Palmately lobed",
+            "image_path": "leaf_margins.jpg"
+        },
+        {
+            "question": "K",
+            "options": ["Plane", "Involute", "Revolute", "Undulate"],
+            "answer": "Plane",
+            "image_path": "leaf_margins.jpg"
+        },
+        {
+            "question": "L",
+            "options": ["Plane", "Involute", "Revolute", "Undulate"],
+            "answer": "Involute",
+            "image_path": "leaf_margins.jpg"
+        },
+        {
+            "question": "M",
+            "options": ["Plane", "Involute", "Revolute", "Undulate"],
+            "answer": "Revolute",
+            "image_path": "leaf_margins.jpg"
+        },
+        {
+            "question": "N",
+            "options": ["Plane", "Involute", "Revolute", "Undulate"],
+            "answer": "Undulate",
+            "image_path": "leaf_margins.jpg"
+        }
+    ],
+    "Common Name from Scientific": [
+        {
+            "question": "Campsis radicans",
+            "options": ["Trumpet Creeper", "Flowering Dogwood", "Bradford Pear", "Crepe Myrtle"],
+            "answer": "Trumpet Creeper",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Cornus florida",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Flowering Dogwood",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Pyrus calleryana",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Bradford Pear",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Lagerstroemia sp.",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Crepe Myrtle",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Magnolia grandiflora",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        }
+    ],
+    "Family (Latin) from Scientific": [
+        {
+            "question": "Campsis radicans",
+            "options": ["Bignoniaceae", "Cornaceae", "Rosaceae", "Lythraceae"],
+            "answer": "Bignoniaceae",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Cornus florida",
+            "options": ["Cornaceae", "Rosaceae", "Lythraceae", "Magnoliaceae"],
+            "answer": "Cornaceae",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Pyrus calleryana",
+            "options": ["Cornaceae", "Rosaceae", "Lythraceae", "Magnoliaceae"],
+            "answer": "Rosaceae",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Lagerstroemia sp.",
+            "options": ["Cornaceae", "Rosaceae", "Lythraceae", "Magnoliaceae"],
+            "answer": "Lythraceae",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Magnolia grandiflora",
+            "options": ["Cornaceae", "Rosaceae", "Lythraceae", "Magnoliaceae"],
+            "answer": "Magnoliaceae",
+            "image_path": "default.jpg"
+        }
     ]
 }
 
