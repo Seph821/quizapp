@@ -3,6 +3,7 @@ from tkinter import messagebox
 from PIL import Image, ImageTk
 import random
 
+# Questions grouped by categories
 question_bank = {
     "Life Span": [
         {
@@ -209,6 +210,80 @@ question_bank = {
             "image_path": "plant_structures.jpg"
         }
 
+    ],
+    "Leaf Shapes": [
+        {
+            "question": "A",
+            "options": ["Needlelike", "Scalelike", "Linear", "Oblong"],
+            "answer": "Needlelike",
+            "image_path": "leaf_shapes.jpg"
+        },
+        {
+            "question": "B",
+            "options": ["Scalelike", "Linear", "Oblong", "Lanceolate"],
+            "answer": "Scalelike",
+            "image_path": "leaf_shapes.jpg"
+        },
+        {
+            "question": "C",
+            "options": ["Linear", "Oblong", "Lanceolate", "Eliptic"],
+            "answer": "Linear",
+            "image_path": "leaf_shapes.jpg"
+        },
+        {
+            "question": "D",
+            "options": ["Oblong", "Lanceolate", "Eliptic", "Oblanceolate"],
+            "answer": "Oblong",
+            "image_path": "leaf_shapes.jpg"
+        },
+        {
+            "question": "E",
+            "options": ["Lanceolate", "Eliptic", "Oblanceolate", "Ovate"],
+            "answer": "Lanceolate",
+            "image_path": "leaf_shapes.jpg"
+        },
+        {
+            "question": "F",
+            "options": ["Eliptic", "Oblanceolate", "Ovate", "Broadly eliptic"],
+            "answer": "Eliptic",
+            "image_path": "leaf_shapes.jpg"
+        },
+        {
+            "question": "G",
+            "options": ["Oblanceolate", "Ovate", "Broadly eliptic", "Obovate"],
+            "answer": "Oblanceolate",
+            "image_path": "leaf_shapes.jpg"
+        },
+        {
+            "question": "H",
+            "options": ["Ovate", "Broadly eliptic", "Obovate", "Orbicular"],
+            "answer": "Ovate",
+            "image_path": "leaf_shapes.jpg"
+        },
+        {
+            "question": "I",
+            "options": ["Broadly eliptic", "Obovate", "Orbicular", "Reniform"],
+            "answer": "Broadly eliptic",
+            "image_path": "leaf_shapes.jpg"
+        },
+        {
+            "question": "J",
+            "options": ["Broadly eliptic", "Obovate", "Orbicular", "Reniform"],
+            "answer": "Obovate",
+            "image_path": "leaf_shapes.jpg"
+        },
+        {
+            "question": "K",
+            "options": ["Broadly eliptic", "Obovate", "Orbicular", "Reniform"],
+            "answer": "Orbicular",
+            "image_path": "leaf_shapes.jpg"
+        },
+        {
+            "question": "L",
+            "options": ["Broadly eliptic", "Obovate", "Orbicular", "Reniform"],
+            "answer": "Reniform",
+            "image_path": "leaf_shapes.jpg"
+        }
     ]
 }
 
@@ -266,6 +341,7 @@ class QuizApp:
         self.selected = False
         q = self.questions[self.current_question]
 
+        # Load and display image
         try:
             img = Image.open(q["image_path"])
             img = img.resize((600, 400), Image.Resampling.LANCZOS)
@@ -275,8 +351,10 @@ class QuizApp:
             print("Error loading image:", e)
             self.image_label.config(image='', text="[Image not found]", font=("Arial", 12))
 
+        # Set question
         self.question_label.config(text=q["question"])
 
+        # Shuffle and display options
         options = q["options"].copy()
         random.shuffle(options)
         for idx, option in enumerate(options):
@@ -319,6 +397,7 @@ class QuizApp:
         app = CategorySelector(root)
         root.mainloop()
 
+# Start the app with category selection
 if __name__ == "__main__":
     root = tk.Tk()
     app = CategorySelector(root)
