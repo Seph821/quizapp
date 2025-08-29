@@ -10,19 +10,19 @@ question_bank = {
             "question": "A plant that completes its life cycle in one growing season",
             "options": ["Annual", "Biennial", "Prennial"],
             "answer": "Annual",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "A plant that completes its life cycle in two growing seasons",
             "options": ["Annual", "Biennial", "Prennial"],
             "answer": "Biennial",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "Any plant that lives for more than two growing seasons",
             "options": ["Annual", "Biennial", "Prennial"],
             "answer": "Prennial",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         }
 
     ],
@@ -31,43 +31,43 @@ question_bank = {
             "question": "A plant with little or no above-ground prennial woody tissue",
             "options": ["Herb", "Subshrub", "Shrub", "Tree"],
             "answer": "Herb",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "A plant having the stature of a shrub but not completely woody",
             "options": ["Subshrub", "Shrub", "Tree", "Succulent"],
             "answer": "Subshrub",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "A woody perennial plant of comparatively low stature with one to many relative slender trunks from near its base",
             "options": ["Shrub", "Tree", "Succulent", "Vine"],
             "answer": "Shrub",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "A large woody plant with one to several relatively massive trunks and an elevated crown",
             "options": ["Tree", "Succulent", "Vine", "Liana"],
             "answer": "Tree",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "A plant with thick, usually soft, watery leaves and/or stems",
             "options": ["Tree", "Succulent", "Vine", "Liana"],
             "answer": "Succulent",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "Climbing plant with herbaceous stems",
             "options": ["Tree", "Succulent", "Vine", "Liana"],
             "answer": "Vine",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "Climbing plant with woody stems",
             "options": ["Tree", "Succulent", "Vine", "Liana"],
             "answer": "Liana",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         }
 
     ],
@@ -76,19 +76,19 @@ question_bank = {
             "question": "A central main root that descends vertically:; it is larger than any branch roots",
             "options": ["Tap Root", "Fibrous Root", "Adventitious Root"],
             "answer": "Tap Root",
-            "image_path": "mars.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "A thin root arising from another root or from stem tissue",
             "options": ["Tap Root", "Fibrous Root", "Adventitious Root"],
             "answer": "Fibrous Root",
-            "image_path": "mars.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "A root that originates from stem or leaf tissue rather than from the interior of another root",
             "options": ["Tap Root", "Fibrous Root", "Adventitious Root"],
             "answer": "Adventitious Root",
-            "image_path": "mars.jpg"
+            "image_path": "default.jpg"
         }
 
     ],
@@ -97,37 +97,37 @@ question_bank = {
             "question": "Prostrate to erect, above-ground stems.  These are the most commonly encountered types of stems",
             "options": ["Aerial Stems", "Rhizome", "Stolon", "Bulb"],
             "answer": "Aerial Stems",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "An underground, horizontal stem that spreads and perennates a plant",
             "options": ["Rhizome", "Stolon", "Bulb", "Corm"],
             "answer": "Rhizome",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "A horizontal stem at or just above the surface of the ground that gives rise to a new plant at its tip or from axillary branches.  It may bend to the ground and surface.",
             "options": ["Stolon", "Bulb", "Corm", "Tuber"],
             "answer": "Stolon",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "A thickened, short vertical stem axis with large, fleshy storage leaves attacked; usually borne below ground.",
             "options": ["Stolon", "Bulb", "Corm", "Tuber"],
             "answer": "Bulb",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "A solid, erect, enlarged underground stem with leaves absent or dry and scalelike; usually borne below ground",
             "options": ["Stolon", "Bulb", "Corm", "Tuber"],
             "answer": "Corm",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         },
         {
             "question": "A solid enlarged, horizontal, shortened, stem, usually borne below ground.",
             "options": ["Stolon", "Bulb", "Corm", "Tuber"],
             "answer": "Tuber",
-            "image_path": "cat.jpg"
+            "image_path": "default.jpg"
         }
         ],
     "Plant Structures": [
