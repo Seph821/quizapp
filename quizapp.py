@@ -507,6 +507,78 @@ question_bank = {
             "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
             "answer": "Southern Magnolia",
             "image_path": "default.jpg"
+        },
+        {
+            "question": "Parthenocissus Quinquefolia",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Eupatorium Capillifolium",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Carya Illinoinensis",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Prunus Serotina",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Quercus Nigra",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Toxicodendron Radicans",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Cercis Canadensis",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Juniperus Virginiana",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Liquidambar Styraciflua",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Rhus Copallinum",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Acer Rubrum",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Phoradendron Lencarpum",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
         }
     ],
     "Family (Latin) from Scientific": [
@@ -538,6 +610,78 @@ question_bank = {
             "question": "Magnolia grandiflora",
             "options": ["Cornaceae", "Rosaceae", "Lythraceae", "Magnoliaceae"],
             "answer": "Magnoliaceae",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Parthenocissus Quinquefolia",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Eupatorium Capillifolium",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Carya Illinoinensis",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Prunus Serotina",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Quercus Nigra",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Toxicodendron Radicans",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Cercis Canadensis",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Juniperus Virginiana",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Liquidambar Styraciflua",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Rhus Copallinum",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Acer Rubrum",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
+            "image_path": "default.jpg"
+        },
+        {
+            "question": "Phoradendron Lencarpum",
+            "options": ["Flowering Dogwood", "Bradford Pear", "Crepe Myrtle", "Southern Magnolia"],
+            "answer": "Southern Magnolia",
             "image_path": "default.jpg"
         }
     ]
